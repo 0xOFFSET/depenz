@@ -11,3 +11,7 @@ In the **Beta Version**, it searches for **Debian** Packages (dpkg) from package
 ```$ python depenz.py -p <package_name> -d /home/user/```
 - list of packages in file 
 ```$ python depenz.py -f <file>```
+
+
+## Next step !?
+It will support other **non-debian** packages and some security metrics.
